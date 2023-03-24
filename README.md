@@ -4,6 +4,7 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence)
 
+There are multiple factors including GDP per capita, Life expectancy, Social support, etc. that influence the happiness levels and scores in countries around the world.
 We are conducting a data exploratory analysis on the Happiness Score Levels around the world, and determining what factors influence them the most.
 
   
