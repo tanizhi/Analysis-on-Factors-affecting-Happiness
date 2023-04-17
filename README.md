@@ -36,3 +36,4 @@ We are conducting a data exploratory analysis on the Happiness Score Levels arou
 
 ## References
 https://www.kaggle.com/datasets/yamaerenay/world-happiness-report-preprocessed?select=2020_report.csv
+https://scikit-learn.org/stable/modules/impute.html
