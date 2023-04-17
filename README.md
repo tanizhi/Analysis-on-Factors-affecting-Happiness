@@ -26,7 +26,7 @@ We are conducting a data exploratory analysis on the Happiness Score Levels arou
 ## Models Used
 
 1. Linear Regression
-2. Random Forest Regression
+2. Gradient Boosting
 
 ## Conclusion
 
