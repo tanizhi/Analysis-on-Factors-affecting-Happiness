@@ -20,7 +20,7 @@ We are conducting a data exploratory analysis on the Happiness Score Levels arou
 
 ## Problem Definition
 
-- Which factor would be the most important in influencing the Happiness Score Levels in different countries?
+- Which variable would be the most important in influencing the Happiness Score Levels in different countries?
 - Which model would be the best to predict it?
 
 ## Models Used
