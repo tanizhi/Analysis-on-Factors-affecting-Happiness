@@ -33,6 +33,8 @@ We are conducting a data exploratory analysis on the Happiness Score Levels arou
 
 ## What did we learn from this project?
 
+## Presentation Slides
+https://docs.google.com/presentation/d/1unfEYtUzT9zedxNKUUy26GXr6_KEPd7Jz8DtJlUayss/edit#slide=id.p
 
 ## References
 - https://www.kaggle.com/datasets/yamaerenay/world-happiness-report-preprocessed?select=2020_report.csv
