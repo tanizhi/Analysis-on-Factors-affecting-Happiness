@@ -34,7 +34,7 @@ We are conducting a data exploratory analysis on the Happiness Score Levels arou
 - Gradient boosting is a more accurate machine learning model than linear regression in determining the correlations between variables for this dataset.
 
 ## What did we learn from this project?
-- We leant how to implement Multiple Imputation by CHained Equation (MICE) to fill in the NULL values within the variable using mean values before performing linear regression to obtain more accurate results prediction for our data points.
+- We leant how to implement Multiple Imputation by Chained Equation (MICE) to fill in the NULL values within the variable using mean values before performing linear regression to obtain more accurate results prediction for our data points.
 - We learnt that combining multiple factors for a multivariate linear regression produces a stronger correlation compared to a univariate linear regression model. 
 - We also learnt how to implement gradient boosting as a machine learning model to determine the correlations between variables in our dataset.
 
